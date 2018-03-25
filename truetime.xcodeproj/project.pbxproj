@@ -12,6 +12,21 @@
 		0D02176F206804910071E9AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D02176D206804910071E9AF /* Main.storyboard */; };
 		0D021771206804910071E9AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D021770206804910071E9AF /* Assets.xcassets */; };
 		0D021774206804910071E9AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D021772206804910071E9AF /* LaunchScreen.storyboard */; };
+		0D02178A2068069A0071E9AF /* SourceCodePro-SemiboldIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0D02177C2068069A0071E9AF /* SourceCodePro-SemiboldIt.otf */; };
+		0D02178B2068069A0071E9AF /* SourceCodePro-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0D02177D2068069A0071E9AF /* SourceCodePro-Semibold.otf */; };
+		0D02178C2068069A0071E9AF /* SourceCodePro-It.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0D02177E2068069A0071E9AF /* SourceCodePro-It.otf */; };
+		0D02178D2068069A0071E9AF /* SourceCodePro-MediumIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0D02177F2068069A0071E9AF /* SourceCodePro-MediumIt.otf */; };
+		0D02178E2068069A0071E9AF /* SourceCodePro-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0D0217802068069A0071E9AF /* SourceCodePro-Regular.otf */; };
+		0D02178F2068069A0071E9AF /* SourceCodePro-BlackIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0D0217812068069A0071E9AF /* SourceCodePro-BlackIt.otf */; };
+		0D0217902068069A0071E9AF /* SourceCodePro-ExtraLightIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0D0217822068069A0071E9AF /* SourceCodePro-ExtraLightIt.otf */; };
+		0D0217912068069A0071E9AF /* SourceCodePro-BoldIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0D0217832068069A0071E9AF /* SourceCodePro-BoldIt.otf */; };
+		0D0217922068069A0071E9AF /* SourceCodePro-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0D0217842068069A0071E9AF /* SourceCodePro-Bold.otf */; };
+		0D0217932068069A0071E9AF /* SourceCodePro-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0D0217852068069A0071E9AF /* SourceCodePro-Black.otf */; };
+		0D0217942068069A0071E9AF /* SourceCodePro-LightIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0D0217862068069A0071E9AF /* SourceCodePro-LightIt.otf */; };
+		0D0217952068069A0071E9AF /* SourceCodePro-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0D0217872068069A0071E9AF /* SourceCodePro-Medium.otf */; };
+		0D0217962068069A0071E9AF /* SourceCodePro-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0D0217882068069A0071E9AF /* SourceCodePro-Light.otf */; };
+		0D0217972068069A0071E9AF /* SourceCodePro-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0D0217892068069A0071E9AF /* SourceCodePro-ExtraLight.otf */; };
+		0D02179920680BE70071E9AF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0D021798206807830071E9AF /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +37,21 @@
 		0D021770206804910071E9AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D021773206804910071E9AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0D021775206804910071E9AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D02177C2068069A0071E9AF /* SourceCodePro-SemiboldIt.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SourceCodePro-SemiboldIt.otf"; sourceTree = "<group>"; };
+		0D02177D2068069A0071E9AF /* SourceCodePro-Semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SourceCodePro-Semibold.otf"; sourceTree = "<group>"; };
+		0D02177E2068069A0071E9AF /* SourceCodePro-It.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SourceCodePro-It.otf"; sourceTree = "<group>"; };
+		0D02177F2068069A0071E9AF /* SourceCodePro-MediumIt.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SourceCodePro-MediumIt.otf"; sourceTree = "<group>"; };
+		0D0217802068069A0071E9AF /* SourceCodePro-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SourceCodePro-Regular.otf"; sourceTree = "<group>"; };
+		0D0217812068069A0071E9AF /* SourceCodePro-BlackIt.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SourceCodePro-BlackIt.otf"; sourceTree = "<group>"; };
+		0D0217822068069A0071E9AF /* SourceCodePro-ExtraLightIt.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SourceCodePro-ExtraLightIt.otf"; sourceTree = "<group>"; };
+		0D0217832068069A0071E9AF /* SourceCodePro-BoldIt.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SourceCodePro-BoldIt.otf"; sourceTree = "<group>"; };
+		0D0217842068069A0071E9AF /* SourceCodePro-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SourceCodePro-Bold.otf"; sourceTree = "<group>"; };
+		0D0217852068069A0071E9AF /* SourceCodePro-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SourceCodePro-Black.otf"; sourceTree = "<group>"; };
+		0D0217862068069A0071E9AF /* SourceCodePro-LightIt.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SourceCodePro-LightIt.otf"; sourceTree = "<group>"; };
+		0D0217872068069A0071E9AF /* SourceCodePro-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SourceCodePro-Medium.otf"; sourceTree = "<group>"; };
+		0D0217882068069A0071E9AF /* SourceCodePro-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SourceCodePro-Light.otf"; sourceTree = "<group>"; };
+		0D0217892068069A0071E9AF /* SourceCodePro-ExtraLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SourceCodePro-ExtraLight.otf"; sourceTree = "<group>"; };
+		0D021798206807830071E9AF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +84,37 @@
 		0D021768206804910071E9AF /* truetime */ = {
 			isa = PBXGroup;
 			children = (
+				0D02177B206805E50071E9AF /* fonts */,
 				0D021769206804910071E9AF /* AppDelegate.swift */,
 				0D02176B206804910071E9AF /* ViewController.swift */,
 				0D02176D206804910071E9AF /* Main.storyboard */,
 				0D021770206804910071E9AF /* Assets.xcassets */,
 				0D021772206804910071E9AF /* LaunchScreen.storyboard */,
 				0D021775206804910071E9AF /* Info.plist */,
+				0D021798206807830071E9AF /* README.md */,
 			);
 			path = truetime;
+			sourceTree = "<group>";
+		};
+		0D02177B206805E50071E9AF /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				0D0217852068069A0071E9AF /* SourceCodePro-Black.otf */,
+				0D0217812068069A0071E9AF /* SourceCodePro-BlackIt.otf */,
+				0D0217842068069A0071E9AF /* SourceCodePro-Bold.otf */,
+				0D0217832068069A0071E9AF /* SourceCodePro-BoldIt.otf */,
+				0D0217892068069A0071E9AF /* SourceCodePro-ExtraLight.otf */,
+				0D0217822068069A0071E9AF /* SourceCodePro-ExtraLightIt.otf */,
+				0D02177E2068069A0071E9AF /* SourceCodePro-It.otf */,
+				0D0217882068069A0071E9AF /* SourceCodePro-Light.otf */,
+				0D0217862068069A0071E9AF /* SourceCodePro-LightIt.otf */,
+				0D0217872068069A0071E9AF /* SourceCodePro-Medium.otf */,
+				0D02177F2068069A0071E9AF /* SourceCodePro-MediumIt.otf */,
+				0D0217802068069A0071E9AF /* SourceCodePro-Regular.otf */,
+				0D02177D2068069A0071E9AF /* SourceCodePro-Semibold.otf */,
+				0D02177C2068069A0071E9AF /* SourceCodePro-SemiboldIt.otf */,
+			);
+			path = fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,7 +176,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D0217962068069A0071E9AF /* SourceCodePro-Light.otf in Resources */,
+				0D02178B2068069A0071E9AF /* SourceCodePro-Semibold.otf in Resources */,
 				0D021774206804910071E9AF /* LaunchScreen.storyboard in Resources */,
+				0D02178F2068069A0071E9AF /* SourceCodePro-BlackIt.otf in Resources */,
+				0D02178C2068069A0071E9AF /* SourceCodePro-It.otf in Resources */,
+				0D0217912068069A0071E9AF /* SourceCodePro-BoldIt.otf in Resources */,
+				0D02179920680BE70071E9AF /* README.md in Resources */,
+				0D0217902068069A0071E9AF /* SourceCodePro-ExtraLightIt.otf in Resources */,
+				0D0217972068069A0071E9AF /* SourceCodePro-ExtraLight.otf in Resources */,
+				0D02178D2068069A0071E9AF /* SourceCodePro-MediumIt.otf in Resources */,
+				0D02178E2068069A0071E9AF /* SourceCodePro-Regular.otf in Resources */,
+				0D0217952068069A0071E9AF /* SourceCodePro-Medium.otf in Resources */,
+				0D0217922068069A0071E9AF /* SourceCodePro-Bold.otf in Resources */,
+				0D0217932068069A0071E9AF /* SourceCodePro-Black.otf in Resources */,
+				0D02178A2068069A0071E9AF /* SourceCodePro-SemiboldIt.otf in Resources */,
+				0D0217942068069A0071E9AF /* SourceCodePro-LightIt.otf in Resources */,
 				0D021771206804910071E9AF /* Assets.xcassets in Resources */,
 				0D02176F206804910071E9AF /* Main.storyboard in Resources */,
 			);
