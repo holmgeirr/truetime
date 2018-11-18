@@ -40,6 +40,7 @@
 		0D02175D206804910071E9AF = {
 			isa = PBXGroup;
 			children = (
+				0D021798206807830071E9AF /* README.md */,
 				0D021768206804910071E9AF /* truetime */,
 				0D021767206804910071E9AF /* Products */,
 			);
@@ -62,7 +63,6 @@
 				0D021770206804910071E9AF /* Assets.xcassets */,
 				0D021772206804910071E9AF /* LaunchScreen.storyboard */,
 				0D021775206804910071E9AF /* Info.plist */,
-				0D021798206807830071E9AF /* README.md */,
 			);
 			path = truetime;
 			sourceTree = "<group>";
@@ -99,6 +99,7 @@
 				TargetAttributes = {
 					0D021765206804910071E9AF = {
 						CreatedOnToolsVersion = 9.2;
+						LastSwiftMigration = 1010;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -288,7 +289,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = de.posteo.engelke.holger.truetime;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -303,7 +304,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = de.posteo.engelke.holger.truetime;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
